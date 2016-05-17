@@ -1,2 +1,0 @@
-import mechanize
-import cookielib
